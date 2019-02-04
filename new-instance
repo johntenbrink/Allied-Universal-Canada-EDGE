@@ -1,0 +1,12 @@
+Tina is looking for development of shell with 1 integration
+1. Training Canadian Users: Tina, will you be conducting the training? 
+Answer: Tina will be the Administrator, so Tina will need a login. She can create test user accounts prior to launch.
+
+2. Canada EDGE will be a separate, dedicated instance (not a sub-Branding Org on main LMS)
+Answer: Site will be allieduniversaledge-can (Tina is looking for just the shell)
+
+3. Tina will be sending Intellum a new Feed to the Canada instance. 
+Answer: There will be multiple user feeds TO the Canadian instance throughout the day on a timeframe to be determined, similar to our existing EDGE site. Will most likely be hourly and an overnight sync feed.
+
+4. Integrations: There will be 1 integration.
+Answer: I’m not exactly sure of the terminology. However, there will also be a feed FROM Intellum for us to pull related to training completions.
